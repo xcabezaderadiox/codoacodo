@@ -7,7 +7,8 @@
     color: white;
     column-gap: 10px;
     row-gap: 10px;
-	min-height: 100vh; 
+	min-height: 100vh;
+    grid-template-rows: auto 1fr auto;	
 }
 
 .header {
@@ -234,7 +235,7 @@ a {
     width: 100%;
 	bottom:0;
 	margin-bottom:0%;
-    
+    min-height:50px; 
 }
 
 .footer2 {
