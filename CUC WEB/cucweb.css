@@ -227,7 +227,7 @@ a {
 .footer {
     grid-column-start: 1;
     grid-column-end: 4;
-    grid-row-start: 12;
+    grid-row-start: 16;
     background-position: bottom;
     display: block;
     margin-left: auto;
