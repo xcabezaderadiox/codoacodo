@@ -227,7 +227,7 @@ a {
 .footer {
     grid-column-start: 1;
     grid-column-end: 4;
-    grid-row-start: 16;
+    grid-row-start: 12;
     background-position: bottom;
     display: block;
     margin-left: auto;
@@ -252,22 +252,6 @@ a {
 	margin-bottom:0%;	
 }
 
-.footer3 {
-grid-column-start: 1;
-grid-column-end: 4;
-grid-row-start: 13;
-background-position: bottom;
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 100%;
-bottom:0;
-margin-bottom: 0%;
-height: 2.5rem; 
-color: blanchedalmond;
-position: relative;
-background-color: green;
-}
 
 
 @media screen 
