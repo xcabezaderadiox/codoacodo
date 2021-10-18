@@ -255,6 +255,22 @@ a {
 }
 
 
+.footer3 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 13;
+    background-position: bott
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    width: 100%;
+    bottom:0;
+	margin-bottom:0%;
+    color: green;
+}
+
+
 /*slide */
 .slide {
     position: relative;
