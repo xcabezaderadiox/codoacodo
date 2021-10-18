@@ -166,55 +166,32 @@ a {
 	font-size: large;
 }
 
-
 .aside_apoyo {
     grid-column-start: 1;
     grid-column-end: 4;
-    text-align: center;
+    text-align: left;
     margin-top: 20px;
     margin-bottom: 10px;
     background-color: black;
-    font-family: 'Press Start 2P', c
+    font-family: 'Press Start 2P', cursive;
 }
 
 .aside_twitch
 {
-    text-align: left;
     margin-top: 10%;
     color:green;
-}
-
-.aside_twitch_2
-{
-    text-align: left;
-    color:white;
 }
 
 .aside_twitch_imagen {
     float: left;
     width: 15%;
     height: 10%;
-    text-align: left;
-}
-
-.aside_cafecito
-{
-    text-align: left;
-    color:green;
-}
-
-.aside_cafecito_2
-{
-    text-align: left;
-    color:white;
 }
 
 .aside_cafecito_imagen {
     float: left;
     width: 15%;
-    text-align: left;
 }
-
 
 .aside_bottom {
     grid-column-start: 1;
